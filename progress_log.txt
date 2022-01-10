@@ -1,0 +1,13 @@
+10/03/2020
+	1. I'm behind on schedule.
+	2. I've been coding with the GUI, trying different stuff.
+	3. Can't get the files to run in Eclipse. Don't know why. Will go to exercise session this week to figure out.
+	4. Once I get that set up, should be up and running.
+	
+	
+24/03/2020
+	1. Basic GUI is ready. 
+	2. Not sure if I should use o1.Grid/create one myself/ or even use a grid.
+	3. Started the backend stuff and wrote basic skeletons for almost all classes.
+	4. Deciding how to structure Door and Humans in the code.
+	
